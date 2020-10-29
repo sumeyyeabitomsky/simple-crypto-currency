@@ -1,0 +1,29 @@
+{
+  "name": "simple-cryptocurrency",
+  "version": "1.0.0",
+  "description": "Simple cryptocurrency library",
+  "main": "index.js",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Warning: test starts\" && node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumeyyeabitomsky/simple-crypto-currency.git"
+  },
+  "keywords": [
+    "blockchain",
+    "crypto",
+    "currency"
+  ],
+  "author": "Sümeyye Bitomsky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sumeyyeabitomsky/simple-crypto-currency/issues"
+  },
+  "homepage": "https://github.com/sumeyyeabitomsky/simple-crypto-currency#readme"
+}
